@@ -1,0 +1,4 @@
+model_name	model_parameters	activation_func	optimization	epochs	date	test_loss	test_acc	test_prec	test_recall
+small_bert	bert_en_uncased_L-2_H-128_A-2	sigmoid	Adam	Adam	1-epochs	0.027655048295855522	0.9919282793998718	0.9794520735740662	0.9597315192222595
+small_bert	bert_en_uncased_L-2_H-128_A-2	sigmoid	Adam	Adam	4-epochs	0.04489787667989731	0.9919282793998718	1.0	0.9395973086357117
+small_bert	bert_en_uncased_L-2_H-128_A-2	sigmoid	Adam	Adam	5-epochs	0.052440885454416275	0.9901345372200012	0.9928571581840515	0.9328858852386475
